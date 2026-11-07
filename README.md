@@ -6,7 +6,17 @@
 This repository documents the preliminary literature search, PROSPERO registration search, database search strategies, and research novelty assessment for the J84 Meta-Radiology research project.
 
 The primary objective is to identify existing systematic reviews and meta-analyses related to Artificial Intelligence (AI) applications in Lung Ultrasound (LUS), assess potential overlap with the proposed review, and establish its research novelty.
+## Research Outputs
 
+### Paper-wise Comparison Report
+A detailed comparison of relevant systematic reviews,
+meta-analyses, and primary studies related to AI in
+Lung Ultrasound.
+
+[View PDF Report](reports/PROSPERO_Paper_Wise_Comparison_Report.pdf)
+
+### Supporting Data
+[Download Excel Comparison Sheet](paper_wise_comparison_AI_LUS.xlsx)
 ## Research Topic
 
 **Artificial Intelligence for Lung Ultrasound Interpretation: Diagnostic Accuracy and Clinical Applications**
